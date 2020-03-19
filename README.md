@@ -21,4 +21,9 @@ Soma and Yue's aeroponics project using RPi4
 7. [ ] LED Grow Light
 8. [ ] Housing
 9. [ ] Water tubing
-10. [ ] Nutrient solution 
+10. [ ] Nutrient solution
+## References
+* [RPi4 Datasheet](https://www.raspberrypi.org/documentation/hardware/raspberrypi/bcm2711/rpi_DATA_2711_1p0_preliminary.pdf)
+* [Python RPIO Documentation](https://pythonhosted.org/RPIO/rpio_py.html)
+* [Python requests Documentation](https://requests.readthedocs.io/en/master/user/quickstart/)
+* [Python picamera Documentation](https://picamera.readthedocs.io/en/release-1.13/install.html)
