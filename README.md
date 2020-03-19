@@ -2,8 +2,8 @@
 Soma and Yue's aeroponics project using RPi4
 ## Materials
 ### Hardware
-1. [ ] RPi4
-	* [ ] MiniHDMI to HDMI cable
+1. [x] RPi4
+	* [x] MiniHDMI to HDMI cable
 2. [ ] Camera module
 3. [ ] Thermometer
 4. [ ] Heating pad
@@ -19,4 +19,6 @@ Soma and Yue's aeroponics project using RPi4
 6. [ ] Containers
 7. [ ] LED Grow Light
 8. [ ] Housing
+9. [ ] Water tubing
+10. [ ] Nutrient solution
  
