@@ -7,6 +7,7 @@ Soma and Yue's aeroponics project using RPi4
 2. [ ] Camera module
 	* [MIPI CSI NoIR Camera - Wide Angle](https://www.sainsmart.com/products/noir-wide-angle-fov160-5-megapixel-camera-module)
 3. [ ] Thermometer
+	* [Digitial TempSens Breakout](https://www.sparkfun.com/products/13314)
 4. [ ] Heating pad
 5. [ ] Resistor
 6. [ ] LEDs
