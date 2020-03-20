@@ -1,4 +1,4 @@
-# Aeroponics Project
+# Raspberry Pi 4 
 Soma and Yue's aeroponics project using RPi4
 ## Materials
 ### Hardware
