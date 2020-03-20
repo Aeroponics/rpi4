@@ -29,4 +29,3 @@ Soma and Yue's aeroponics project using RPi4
 * [Python requests Documentation](https://requests.readthedocs.io/en/master/user/quickstart/)
 * [Python picamera Documentation](https://picamera.readthedocs.io/en/release-1.13/install.html)
 
-	int main(void){}
